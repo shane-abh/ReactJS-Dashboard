@@ -1,6 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
+  "homepage": "https://github.com/shane-abh/ReactJS-Dashboard/",
   "private": true,
   "dependencies": {
     "@capacitor/android": "^4.3.0",
